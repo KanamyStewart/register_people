@@ -5,7 +5,7 @@ Neste projeto, foi desenvolvido uma API REST para registro de pessoas usando Spr
 
 Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
 
-* Escopo de projeto iniciado com o Spring Boot Initialzer
+* Escopo de projeto iniciado com o Spring Boot Initializer
 * Aprendemos a criar modelos de dados e mapeamento de entidades em bancos de dados.
 * Aprendemos a criar sistema de gerenciamento de usuarios (Cadastro, leitura, atualização e remoção de usuario de um sistema de banco de dados).
 * Aprendemos a utilizar operações de padrão arquitetural REST.
